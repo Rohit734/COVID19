@@ -19,9 +19,9 @@ The data used in this project is sourced from [data.covid19india.org](https://da
 
 1. Clone the repository:
 
-\```bash
+\``bash
 git clone https://github.com/Rohit734/COVID19/tree/main
-\```
+\``
 
 
 2. Run the Jupyter Notebook \`covid19_analysis.ipynb\` to execute the code.
